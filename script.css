@@ -1,0 +1,44 @@
+.box{
+    background-color: #eee;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 5px;
+    height: 99%;
+}
+.headings{
+    text-align: center;
+}
+h1{
+    color: #090995;
+}
+.shortintro{
+    border: 2px solid #ddd;
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.thumbnail{
+    text-align: center;
+    margin-top: 0.5em;
+    border: 1px solid #ddd;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+img{
+    margin-top: 0.5em;
+    width: 27.8vw;
+}
+#thumbline{
+    background-color: #ddd;
+    border: 2px solid #ddd;
+    width: 27.8vw;
+    margin: auto;
+    margin-bottom: 0.5em;
+}
+#time{
+    margin-left: 1.37em;
+}
+.reference{
+    font-style: italic;
+    text-align: center;
+}
